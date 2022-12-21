@@ -13,10 +13,10 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('types', function (Blueprint $table) {
-            $table->id('id_type');
-            $table->tinyText('type_name');
-            $table->mediumText('type_image_path')->nullable();
+        Schema::create('generations', function (Blueprint $table) {
+            $table->id('id_generation');
+            $table->text('generation_name');
+            $table->text('region');
             $table->timestamps();
         });
     }
@@ -28,6 +28,6 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('types');
+        Schema::dropIfExists('generations');
     }
 };

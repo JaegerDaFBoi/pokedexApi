@@ -14,7 +14,9 @@ return new class extends Migration
     public function up()
     {
         Schema::create('skills', function (Blueprint $table) {
-            $table->id();
+            $table->id('id_skill');
+            $table->tinyText('skill_name');
+            $table->mediumText('skill_description');
             $table->timestamps();
         });
     }

@@ -14,7 +14,15 @@ return new class extends Migration
     public function up()
     {
         Schema::create('pokedex_entries', function (Blueprint $table) {
-            $table->id();
+            $table->id('id_pokedex_entries');
+            $table->longText('redfire_entry');
+            $table->longText('soulsilver_entry');
+            $table->longText('emerald_entry');
+            $table->longText('platinum_entry')->nullable();
+            $table->unsignedBigInteger('fk_pokemon');
+            $table->foreign('fk_pokemon')->references('id_pokemon')->on('pokemons')
+            ->onUpdate('cascade')
+            ->onDelete('cascade');
             $table->timestamps();
         });
     }

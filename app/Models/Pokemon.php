@@ -50,4 +50,8 @@ class Pokemon extends Model
     public function stats() {
         return $this->hasOne(Stat::class, 'fk_pokemon', 'id_pokemon');
     }
+
+    public function generation() {
+        return $this->belongsTo(Generation::class, 'fk_generation', 'id_generation');
+    }
 }
