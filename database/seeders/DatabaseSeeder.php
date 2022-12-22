@@ -17,7 +17,8 @@ class DatabaseSeeder extends Seeder
         $this->call([
             GenerationSeeder::class,
             TypeSeeder::class,
-            SkillSeeder::class
+            SkillSeeder::class,
+            CategorySeeder::class
         ]);
     }
 }

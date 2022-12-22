@@ -1,0 +1,498 @@
+[
+  {
+    "nombre": "Absorbe agua",
+    "descripcion": "Recupera PS al recibir ataques de tipo agua."
+  },
+  {
+    "nombre": "Absorbe electricidad",
+    "descripcion": "Recupera PS al recibir ataques de tipo eléctrico."
+  },
+  {
+    "nombre": "Absorbe fuego",
+    "descripcion": "Potencia movimientos de tipo fuego si ha sufrido antes alguno."
+  },
+  {
+    "nombre": "Aclimatación",
+    "descripcion": "Anula los efectos del tiempo atmosférico."
+  },
+  {
+    "nombre": "Agallas",
+    "descripcion": "Sube el ataque si sufre un problema de estado."
+  },
+  {
+    "nombre": "Armadura batalla",
+    "descripcion": "Bloquea los golpes críticos."
+  },
+  {
+    "nombre": "Pereza",
+    "descripcion": "El Pokémon no atacará en turnos consecutivos."
+  },
+  {
+    "nombre": "Esclusa de aire",
+    "descripcion": "Anula los efectos del tiempo atmosférico."
+  },
+  {
+    "nombre": "Cabeza roca",
+    "descripcion": "Impide que el Pokémon se dañe con sus movimientos."
+  },
+  {
+    "nombre": "Cacofonía",
+    "descripcion": "Evita ataques de sonido."
+  },
+  {
+    "nombre": "Cambio color",
+    "descripcion": "Adopta el tipo del último movimiento del que se es blanco."
+  },
+  {
+    "nombre": "Caparazón",
+    "descripcion": "Bloquea los golpes críticos."
+  },
+  {
+    "nombre": "Chorro arena",
+    "descripcion": "Crea una tormenta de arena en el combate."
+  },
+  {
+    "nombre": "Clorofila",
+    "descripcion": "Sube la velocidad cuando hay sol."
+  },
+  {
+    "nombre": "Corte fuerte",
+    "descripcion": "Evita que disminuya el ataque."
+  },
+  {
+    "nombre": "Cuerpo llama",
+    "descripcion": "Puede quemar al mínimo contacto."
+  },
+  {
+    "nombre": "Cuerpo puro",
+    "descripcion": "Evita que bajen las características."
+  },
+  {
+    "nombre": "Cura lluvia",
+    "descripcion": "Recupera PS de forma gradual cuando llueve."
+  },
+  {
+    "nombre": "Cura natural",
+    "descripcion": "Cura problemas de estado al cambiar de Pokémon."
+  },
+  {
+    "nombre": "Despiste",
+    "descripcion": "Evita que el Pokémon sea atraído o provocado."
+  },
+  {
+    "nombre": "Dicha",
+    "descripcion": "Aumenta la probabilidad de que haya efectos secundarios."
+  },
+  {
+    "nombre": "Efecto espora",
+    "descripcion": "Puede dormir, envenenar o paralizar al contacto."
+  },
+  {
+    "nombre": "Electricidad estática",
+    "descripcion": "Puede paralizar al mínimo contacto."
+  },
+  {
+    "nombre": "Energía pura",
+    "descripcion": "Aumenta el ataque."
+  },
+  {
+    "nombre": "Enjambre",
+    "descripcion": "Potencia los ataques de tipo bicho en un apuro."
+  },
+  {
+    "nombre": "Entusiasmo",
+    "descripcion": "Aumenta el ataque, pero reduce la precisión."
+  },
+  {
+    "nombre": "Escama especial",
+    "descripcion": "Sube la defensa si sufre un problema de estado."
+  },
+  {
+    "nombre": "Escudo magma",
+    "descripcion": "Evita la congelación."
+  },
+  {
+    "nombre": "Espesura",
+    "descripcion": "Potencia los ataques de tipo planta en un apuro."
+  },
+  {
+    "nombre": "Espíritu vital",
+    "descripcion": "Evita el quedarse dormido."
+  },
+  {
+    "nombre": "Flexibilidad",
+    "descripcion": "Evita ser paralizado."
+  },
+  {
+    "nombre": "Fuerza mental",
+    "descripcion": "Evita el retroceso."
+  },
+  {
+    "nombre": "Fuga",
+    "descripcion": "Permite escapar de todos los Pokémon salvajes."
+  },
+  {
+    "nombre": "Gran encanto",
+    "descripcion": "Tocar al Pokémon puede causar enamoramiento."
+  },
+  {
+    "nombre": "Hedor",
+    "descripcion": "Es posible que el rival retroceda por el mal olor."
+  },
+  {
+    "nombre": "Humedad",
+    "descripcion": "Evita que un Pokémon pueda autodestruirse."
+  },
+  {
+    "nombre": "Humo blanco",
+    "descripcion": "Evita que bajen las estadísticas."
+  },
+  {
+    "nombre": "Iluminación",
+    "descripcion": "Aumenta la probabilidad de encontrar Pokémon."
+  },
+  {
+    "nombre": "Impulso",
+    "descripcion": "Aumenta la velocidad gradualmente."
+  },
+  {
+    "nombre": "Imán",
+    "descripcion": "Impide huir a los Pokémon de tipo acero."
+  },
+  {
+    "nombre": "Inmunidad",
+    "descripcion": "Evita el envenenamiento."
+  },
+  {
+    "nombre": "Insomnio",
+    "descripcion": "Evita el quedarse dormido."
+  },
+  {
+    "nombre": "Insonorizar",
+    "descripcion": "Evita ataques de sonido."
+  },
+  {
+    "nombre": "Intimidación",
+    "descripcion": "Baja el ataque del rival."
+  },
+  {
+    "nombre": "Levitación",
+    "descripcion": "Proporciona inmunidad frente a los ataques de tipo tierra."
+  },
+  {
+    "nombre": "Llovizna",
+    "descripcion": "Hace que llueva cuando entra en combate."
+  },
+  {
+    "nombre": "Lodo líquido",
+    "descripcion": "Hiere a los Pokémon que drenan PS."
+  },
+  {
+    "nombre": "Madrugar",
+    "descripcion": "El Pokémon se despierta rápidamente."
+  },
+  {
+    "nombre": "Mar llamas",
+    "descripcion": "Potencia los ataques de tipo fuego en un apuro."
+  },
+  {
+    "nombre": "Más",
+    "descripcion": "Potencia el ataque especial si algún otro Pokémon tiene más o menos."
+  },
+  {
+    "nombre": "Menos",
+    "descripcion": "Potencia el ataque especial si algún otro Pokémon tiene más o menos."
+  },
+  {
+    "nombre": "Mudar",
+    "descripcion": "Cura los problemas de estado mudando la piel."
+  },
+  {
+    "nombre": "Nado rápido",
+    "descripcion": "Sube la velocidad cuando hay lluvia."
+  },
+  {
+    "nombre": "Ojo compuesto",
+    "descripcion": "Aumenta la precisión del Pokémon."
+  },
+  {
+    "nombre": "Pararrayos",
+    "descripcion": "Atrae y neutraliza movimientos de tipo eléctrico y sube el ataque especial"
+  },
+  {
+    "nombre": "Piel tosca",
+    "descripcion": "Hiere al hacer contacto."
+  },
+  {
+    "nombre": "Polvo escudo",
+    "descripcion": "Anula el efecto secundario del ataque sufrido."
+  },
+  {
+    "nombre": "Potencia",
+    "descripcion": "Aumenta el ataque."
+  },
+  {
+    "nombre": "Predicción",
+    "descripcion": "Se transforma según el tiempo atmosférico."
+  },
+  {
+    "nombre": "Presión",
+    "descripcion": "Hace que los PP del rival se acaben antes."
+  },
+  {
+    "nombre": "Punto tóxico",
+    "descripcion": "Puede envenenar al mínimo contacto."
+  },
+  {
+    "nombre": "Calco",
+    "descripcion": "Copia la habilidad del rival."
+  },
+  {
+    "nombre": "Recogida",
+    "descripcion": "El Pokémon puede encontrar objetos."
+  },
+  {
+    "nombre": "Ritmo propio",
+    "descripcion": "Evita ser confundido."
+  },
+  {
+    "nombre": "Robustez",
+    "descripcion": "Evita que el rival pueda debilitarle de un solo golpe."
+  },
+  {
+    "nombre": "Sebo",
+    "descripcion": "Atenúa los ataques de tipo fuego y hielo."
+  },
+  {
+    "nombre": "Sequía",
+    "descripcion": "El sol sale si el Pokémon entra en combate."
+  },
+  {
+    "nombre": "Sincronía",
+    "descripcion": "Contagia envenenamiento, parálisis o quemaduras."
+  },
+  {
+    "nombre": "Sombra trampa",
+    "descripcion": "Evita que el enemigo huya."
+  },
+  {
+    "nombre": "Superguarda",
+    "descripcion": "Solo le hacen daño los movimientos supereficaces."
+  },
+  {
+    "nombre": "Torrente",
+    "descripcion": "Potencia los ataques de tipo agua en un apuro."
+  },
+  {
+    "nombre": "Trampa arena",
+    "descripcion": "Evita que el rival huya."
+  },
+  {
+    "nombre": "Velo agua",
+    "descripcion": "Evita las quemaduras."
+  },
+  {
+    "nombre": "Velo arena",
+    "descripcion": "Aumenta la evasión en las tormentas de arena."
+  },
+  {
+    "nombre": "Ventosas",
+    "descripcion": "Anula movimientos y objetos que fuerzan el relevo."
+  },
+  {
+    "nombre": "Viscosidad",
+    "descripcion": "Protege al Pokémon del robo de objetos."
+  },
+  {
+    "nombre": "Vista lince",
+    "descripcion": "Evita que disminuya la precisión."
+  },
+  {
+    "nombre": "Adaptable",
+    "descripcion": "Potencia los movimientos del mismo tipo del Pokémon."
+  },
+  {
+    "nombre": "Afortunado",
+    "descripcion": "Aumenta la probabilidad de dar golpes críticos."
+  },
+  {
+    "nombre": "Alerta",
+    "descripcion": "Determina el movimiento más potente del rival."
+  },
+  {
+    "nombre": "Anticipación",
+    "descripcion": "Prevé los movimientos peligrosos del rival."
+  },
+  {
+    "nombre": "Antídoto",
+    "descripcion": "Recupera PS si el Pokémon ha sido envenenado."
+  },
+  {
+    "nombre": "Audaz",
+    "descripcion": "Potencia los movimientos que dañan al usuario."
+  },
+  {
+    "nombre": "Cacheo",
+    "descripcion": "El Pokémon puede ver el objeto que lleva el rival."
+  },
+  {
+    "nombre": "Colector",
+    "descripcion": "Atrae y neutraliza los movimientos de tipo agua y sube el ataque especial."
+  },
+  {
+    "nombre": "Cromolente",
+    "descripcion": "Potencia los movimientos que no son muy eficaces."
+  },
+  {
+    "nombre": "Defensa hoja",
+    "descripcion": "Evita los problemas de estado si hace sol."
+  },
+  {
+    "nombre": "Descarga",
+    "descripcion": "Adapta su fuerza para cada rival."
+  },
+  {
+    "nombre": "Don floral",
+    "descripcion": "Potencia a todos los Pokémon del equipo si está soleado."
+  },
+  {
+    "nombre": "Electromotor",
+    "descripcion": "Sube la velocidad si le alcanza un ataque eléctrico."
+  },
+  {
+    "nombre": "Encadenado",
+    "descripcion": "Aumenta la frecuencia de los movimientos múltiples."
+  },
+  {
+    "nombre": "Experto",
+    "descripcion": "Potencia los movimientos más débiles del Pokémon."
+  },
+  {
+    "nombre": "Filtro",
+    "descripcion": "Mitiga los movimientos supereficaces."
+  },
+  {
+    "nombre": "Francotirador",
+    "descripcion": "Potencia los movimientos si se vuelven críticos."
+  },
+  {
+    "nombre": "Gula",
+    "descripcion": "Fomenta el uso rápido de la baya que porte."
+  },
+  {
+    "nombre": "Gélido",
+    "descripcion": "Recupera algunos PS cuando hay tormentas de granizo."
+  },
+  {
+    "nombre": "Hidratación",
+    "descripcion": "Cura los problemas de estado si está lloviendo."
+  },
+  {
+    "nombre": "Ignífugo",
+    "descripcion": "Disminuye la potencia de los ataques de tipo fuego."
+  },
+  {
+    "nombre": "Ignorante",
+    "descripcion": "No tiene en cuenta las mejoras en las características del rival."
+  },
+  {
+    "nombre": "Impasible",
+    "descripcion": "Cada vez que retrocede sube su velocidad."
+  },
+  {
+    "nombre": "Indefenso",
+    "descripcion": "El movimiento del Pokémon y el del rival acertarán."
+  },
+  {
+    "nombre": "Inicio lento",
+    "descripcion": "Baja a la mitad el ataque y la velocidad durante un rato."
+  },
+  {
+    "nombre": "Intrépido",
+    "descripcion": "Movimientos de tipo normal y lucha golpean a Pokémon fantasma."
+  },
+  {
+    "nombre": "Irascible",
+    "descripcion": "Sube el ataque al máximo tras un golpe crítico."
+  },
+  {
+    "nombre": "Liviano",
+    "descripcion": "Sube la velocidad si usa o pierde el objeto que lleve."
+  },
+  {
+    "nombre": "Mal sueño",
+    "descripcion": "Reduce los PS de cualquier rival que esté dormido."
+  },
+  {
+    "nombre": "Manto níveo",
+    "descripcion": "Sube la evasión durante una tormenta de granizo."
+  },
+  {
+    "nombre": "Multitipo",
+    "descripcion": "Cambia el tipo al de la tabla que lleve."
+  },
+  {
+    "nombre": "Muro mágico",
+    "descripcion": "Solo dañan al Pokémon los ataques directos."
+  },
+  {
+    "nombre": "Nevada",
+    "descripcion": "El Pokémon invoca una tormenta de granizo."
+  },
+  {
+    "nombre": "Normalidad",
+    "descripcion": "Todos los movimientos se vuelven de tipo normal."
+  },
+  {
+    "nombre": "Piel seca",
+    "descripcion": "Pierde PS si hace calor. Los recupera con agua."
+  },
+  {
+    "nombre": "Pies rápidos",
+    "descripcion": "Potencia la velocidad si hay problemas de estado."
+  },
+  {
+    "nombre": "Poder solar",
+    "descripcion": "Si hace sol, baja los PS, pero potencia el ataque especial."
+  },
+  {
+    "nombre": "Puño férreo",
+    "descripcion": "Aumenta la fuerza de los puñetazos."
+  },
+  {
+    "nombre": "Recogemiel",
+    "descripcion": "El Pokémon recoge miel de donde puede."
+  },
+  {
+    "nombre": "Detonación",
+    "descripcion": "Daña al agresor que le ha dado el golpe de gracia."
+  },
+  {
+    "nombre": "Rezagado",
+    "descripcion": "El Pokémon se mueve tras todos los demás."
+  },
+  {
+    "nombre": "Rivalidad",
+    "descripcion": "Si el objetivo es del mismo sexo, inflige más daño."
+  },
+  {
+    "nombre": "Roca sólida",
+    "descripcion": "Mitiga los movimientos supereficaces."
+  },
+  {
+    "nombre": "Rompemoldes",
+    "descripcion": "Usa movimientos sin que importen las habilidades del objetivo."
+  },
+  {
+    "nombre": "Simple",
+    "descripcion": "Aumenta los cambios en las características."
+  },
+  {
+    "nombre": "Tumbos",
+    "descripcion": "Sube la evasión si el Pokémon está confuso."
+  },
+  {
+    "nombre": "Zoquete",
+    "descripcion": "El Pokémon no puede usar objetos equipados."
+  }
+]
