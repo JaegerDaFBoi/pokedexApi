@@ -18,7 +18,9 @@ class DatabaseSeeder extends Seeder
             GenerationSeeder::class,
             TypeSeeder::class,
             SkillSeeder::class,
-            CategorySeeder::class
+            CategorySeeder::class,
+            PokemonSeeder::class,
+            StatsSeeder::class
         ]);
     }
 }

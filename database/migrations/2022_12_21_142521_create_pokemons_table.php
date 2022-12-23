@@ -31,7 +31,7 @@ return new class extends Migration
             ->onUpdate('cascade')
             ->onDelete('cascade');
 
-            $table->unsignedBigInteger('fk_type2');
+            $table->unsignedBigInteger('fk_type2')->nullable();
             $table->foreign('fk_type2')->references('id_type')->on('types')
             ->onUpdate('cascade')
             ->onDelete('cascade');

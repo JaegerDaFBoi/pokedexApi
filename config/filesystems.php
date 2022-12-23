@@ -78,7 +78,8 @@ return [
 
     'links' => [
         public_path('storage') => storage_path('app/public'),
-        public_path('types_img') => storage_path('app/types_img')
+        public_path('types_img') => storage_path('app/types_img'),
+        public_path('pokemon_img') => storage_path('app/pokemon_img')
     ],
 
 ];

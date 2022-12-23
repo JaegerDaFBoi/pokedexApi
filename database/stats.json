@@ -1,0 +1,83 @@
+[
+  {
+    "ps": 45,
+    "ataque": 49,
+    "defensa": 49,
+    "velocidad": 45,
+    "ataqueespecial": 65,
+    "defensaespecial": 65,
+    "pokemon": 1
+  },
+  {
+    "ps": 60,
+    "ataque": 62,
+    "defensa": 63,
+    "velocidad": 60,
+    "ataqueespecial": 80,
+    "defensaespecial": 80,
+    "pokemon": 2
+  },
+  {
+    "ps": 80,
+    "ataque": 82,
+    "defensa": 83,
+    "velocidad": 80,
+    "ataqueespecial": 100,
+    "defensaespecial": 100,
+    "pokemon": 3
+  },
+  {
+    "ps": 39,
+    "ataque": 52,
+    "defensa": 43,
+    "velocidad": 65,
+    "ataqueespecial": 60,
+    "defensaespecial": 50,
+    "pokemon": 4
+  },
+  {
+    "ps": 58,
+    "ataque": 64,
+    "defensa": 58,
+    "velocidad": 80,
+    "ataqueespecial": 80,
+    "defensaespecial": 65,
+    "pokemon": 5
+  },
+  {
+    "ps": 78,
+    "ataque": 84,
+    "defensa": 78,
+    "velocidad": 100,
+    "ataqueespecial": 109,
+    "defensaespecial": 85,
+    "pokemon": 6
+  },
+  {
+    "ps": 44,
+    "ataque": 48,
+    "defensa": 65,
+    "velocidad": 43,
+    "ataqueespecial": 50,
+    "defensaespecial": 64,
+    "pokemon": 7
+  },
+  {
+    "ps": 59,
+    "ataque": 63,
+    "defensa": 80,
+    "velocidad": 58,
+    "ataqueespecial": 65,
+    "defensaespecial": 80,
+    "pokemon": 8
+  },
+  {
+    "ps": 79,
+    "ataque": 83,
+    "defensa": 100,
+    "velocidad": 78,
+    "ataqueespecial": 85,
+    "defensaespecial": 105,
+    "pokemon": 9
+  }
+]
