@@ -15,7 +15,7 @@ return new class extends Migration
     {
         Schema::create('pokemons', function (Blueprint $table) {
             $table->id('id_pokemon');
-            $table->integer('pokedex_number');
+            $table->bigInteger('pokedex_number');
             $table->tinyText('pokemon_name');
             $table->float('pokemon_weight', 4, 1)->nullable();
             $table->float('pokemon_height', 2, 1)->nullable();
@@ -46,6 +46,7 @@ return new class extends Migration
             ->onUpdate('cascade')
             ->onDelete('cascade');
 
+            $table->mediumText('pokemon_sprite_path');
             $table->mediumText('pokemon_image_path');
             $table->mediumText('pokemon_alt_image_path')->nullable();
             $table->timestamps();

@@ -30,6 +30,7 @@ class PokemonSeeder extends Seeder
                 'fk_type2' => $pokemon->tipo2,
                 'fk_category' => $pokemon->categoria,
                 'fk_skill' => $pokemon->habilidad,
+                'pokemon_sprite_path' => $pokemon->sprite,
                 'pokemon_image_path' => $pokemon->imagen1,
                 'pokemon_alt_image_path' => $pokemon->imagen2
             ));

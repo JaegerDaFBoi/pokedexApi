@@ -16,7 +16,21 @@ class PokemonController extends Controller
      */
     public function index()
     {
-        //
+        $pokemon_data = Pokemon::select(
+            'id_pokemon', 
+            'pokedex_number', 
+            'pokemon_name', 
+            'pokemon_sprite_path',
+            'fk_generation',
+            'fk_type1',
+            'fk_type2')
+        ->with('generation', 'mainType', 'secondaryType')
+        ->get();
+
+        return response()->json([
+            'pokemons' => $pokemon_data,
+            'status' => true
+        ], 200);
     }
 
     /**
@@ -52,9 +66,24 @@ class PokemonController extends Controller
      * @param  \App\Models\Pokemon  $pokemon
      * @return \Illuminate\Http\Response
      */
-    public function show(Pokemon $pokemon)
+    public function show($idPokemon)
     {
-        //
+        $pokemon = Pokemon::where('pokedex_number', $idPokemon)
+        ->with(
+            'generation',
+            'mainType',
+            'secondaryType',
+            'category',
+            'skill',
+            'stats',
+            'pokedexEntries'
+            )
+        ->get();
+
+        return response()->json([
+            'pokemon' => $pokemon,
+            'status' => true
+        ], 200);
     }
 
     /**

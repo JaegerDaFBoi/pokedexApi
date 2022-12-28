@@ -10,6 +10,7 @@
     "tipo2": 17,
     "categoria": 628,
     "habilidad": 29,
+    "sprite": "bulbasaursprite.png",
     "imagen1": "001bulbasaur.png",
     "imagen2": "001bulbasaurshiny.png"
   },
@@ -24,6 +25,7 @@
     "tipo2": 17,
     "categoria": 628,
     "habilidad": 29,
+    "sprite": "ivysaursprite.png",
     "imagen1": "002ivysaur.png",
     "imagen2": "002ivysaurshiny.png"
   },
@@ -38,6 +40,7 @@
     "tipo2": 17,
     "categoria": 628,
     "habilidad": 29,
+    "sprite": "venusaursprite.png",
     "imagen1": "003venusaur.png",
     "imagen2": "003venusaurshiny.png"
   },
@@ -52,6 +55,7 @@
     "tipo2": null,
     "categoria": 385,
     "habilidad": 49,
+    "sprite": "charmandersprite.png",
     "imagen1": "004charmander.png",
     "imagen2": "004charmandershiny.png"
   },
@@ -66,6 +70,7 @@
     "tipo2": null,
     "categoria": 403,
     "habilidad": 49,
+    "sprite": "charmeleonsprite.png",
     "imagen1": "005charmeleon.png",
     "imagen2": "005charmeleonshiny.png"
   },
@@ -80,6 +85,7 @@
     "tipo2": 18,
     "categoria": 403,
     "habilidad": 49,
+    "sprite": "charizardsprite.png",
     "imagen1": "006charizard.png",
     "imagen2": "006charizardshiny.png"
   },
@@ -94,6 +100,7 @@
     "tipo2": null,
     "categoria": 683,
     "habilidad": 71,
+    "sprite": "squirtlesprite.png",
     "imagen1": "007squirtle.png",
     "imagen2": "007squirtleshiny.png"
   },
@@ -108,6 +115,7 @@
     "tipo2": null,
     "categoria": 681,
     "habilidad": 71,
+    "sprite": "wartortlesprite.png",
     "imagen1": "008wartortle.png",
     "imagen2": "008wartortleshiny.png"
   },
@@ -122,6 +130,7 @@
     "tipo2": null,
     "categoria": 40,
     "habilidad": 71,
+    "sprite": "blastoisesprite.png",
     "imagen1": "009blastoise.png",
     "imagen2": "009blastoiseshiny.png"
   }

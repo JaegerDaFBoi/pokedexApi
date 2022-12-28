@@ -20,7 +20,8 @@ class DatabaseSeeder extends Seeder
             SkillSeeder::class,
             CategorySeeder::class,
             PokemonSeeder::class,
-            StatsSeeder::class
+            StatsSeeder::class,
+            PokedexEntrySeeder::class
         ]);
     }
 }

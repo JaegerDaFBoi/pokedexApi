@@ -50,6 +50,12 @@ return [
             'url' => env('APP_URL').'/types_img',
             'visibility' => 'public'
         ],
+        'pokemon' => [
+            'driver' => 'local',
+            'root' => storage_path('app/pokemon_img'),
+            'url' => env('APP_URL').'/pokemon_img',
+            'visibility' => 'public'
+        ],
 
         's3' => [
             'driver' => 's3',

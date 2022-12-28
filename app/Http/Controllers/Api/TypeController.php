@@ -30,7 +30,7 @@ class TypeController extends Controller
      */
     public function create()
     {
-        //
+        
     }
 
     /**
@@ -50,9 +50,14 @@ class TypeController extends Controller
      * @param  \App\Models\Type  $type
      * @return \Illuminate\Http\Response
      */
-    public function show(Type $type)
+    public function show($idType)
     {
-        
+        $type = Type::find($idType);
+
+        return response()->json([
+            'type' => $type,
+            'status' => true
+        ], 200);
     }
 
     /**
